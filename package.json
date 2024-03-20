@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@cloudflare/workers-types": "^4.20240222.0",
-    "drizzle-orm": "^0.29.5",
-    "wrangler": "^3.31.0"
+    "@cloudflare/workers-types": "^4.20240320.1",
+    "drizzle-orm": "^0.30.5-139135c",
+    "wrangler": "^3.36.0"
   }
 }
